@@ -13,6 +13,6 @@ LDA model(finished)
 R shiny display:
     basic(finished)
     map(working on)
-    LDA(working on)
+    LDA(finished)
 
-To see the display on shiny: https://xiaoyuliu198.shinyapps.io/1edition/
+To see the display on shiny: https://xiaoyuliu198.shinyapps.io/airline_analysis/
