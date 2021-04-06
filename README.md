@@ -6,9 +6,13 @@ Two datasets included:IMDB(only review and sentiment label), Airline Twitter(twe
 
 
 ## Progress:
-Sentiment prediction: Naive Bayes& Deep learning (finished)
-LDA model(finished)
-R shiny display:
+
+### Sentiment prediction: 
+    Naive Bayes& Deep learning (finished)
+    
+### LDA model(finished)
+
+### R shiny display:
     basic(finished)
     map(working on)
     LDA(finished)
